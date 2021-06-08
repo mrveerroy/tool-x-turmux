@@ -1,6 +1,6 @@
 # Tool Name :- Tool-X
-# Author :- Rajkumar dusad
-# Date :- 1/11/2017
+# Author :- 𝙼𝚛 BaD_вσY
+# Date :- 9/6/2021
 
 import os
 import sys
